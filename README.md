@@ -40,8 +40,8 @@ _ __ \/ /\_____.__ |:::|.__ |:::| :/_____ |:::\  /_ :/ __ |:::| __[A  R  T]_____
            
 ## Table of Contents
 
-- [Command-Line Utilities](#command-line-utilities)
-- [Graphical Editors](#graphical-editors)
+- [CLI Utilities](#CLI-utilities)
+- [GUI Utilities](#GUI-Utilities)
 - [Libraries and APIs](#libraries-and-apis)
 - [Online Tools](#online-tools)
 - [Badge Art](#badge-art)
