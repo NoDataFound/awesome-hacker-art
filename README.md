@@ -51,8 +51,8 @@ _ __ \/ /\_____.__ |:::|.__ |:::| :/_____ |:::\  /_ :/ __ |:::| __[A  R  T]_____
   - [Music](#music)
   - [Hardware](#hardware)
   - [Software](#software)
-- [AI Art Tools for Retro Hacker Aesthetic](#ai-art-tools-for-retro-hacker-aesthetic)
-- [Expanded Art Format Glossary](#expanded-art-format-glossary)
+- [AI Art Tools](#ai-art-tools)
+- [Art Format Glossary](#art-format-glossary)
 - [Resources](#resources)
 - [License](#license)
 
@@ -164,7 +164,7 @@ things
 
 
 
-## AI Art Tools for Retro Hacker Aesthetic
+## AI Art Tools
 
 `AI things attempting to conjuring old-school hacker vibes.`
 
